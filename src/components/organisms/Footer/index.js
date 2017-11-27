@@ -13,6 +13,6 @@ const Wrapper = styled.div`
   font-size: 20px;
 `;
 
-const Footer = ({}) => <Wrapper>{`Made with by <3 Irving Ventura`}</Wrapper>;
+const Footer = () => <Wrapper>{`Made with by <3 Irving Ventura`}</Wrapper>;
 
 export default Footer;
