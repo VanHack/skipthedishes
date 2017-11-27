@@ -81,6 +81,6 @@ yarn start
 
 ## Screenshots
 
-<img src="./images/app-standalone.jpg" width="200" />
+<img src="./images/app-standalone.jpeg" width="200" />
 
-<img src="./images/add-to-homescreen.jpg" width="200" />
+<img src="./images/add-to-homescreen.jpeg" width="200" />
