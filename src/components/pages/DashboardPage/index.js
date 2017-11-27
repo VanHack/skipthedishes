@@ -3,6 +3,7 @@ import React from "react";
 import Container from "../../atoms/Container";
 import Block from "../../atoms/Block";
 import Header from "../../organisms/Header";
+import Footer from "../../organisms/Footer";
 import GraphCard from "../../organisms/GraphCard";
 import TableCard from "../../organisms/TableCard";
 import RecommendCard from "../../organisms/RecommendCard";
@@ -31,6 +32,7 @@ const DashboardPage = ({
           <TableCard heading="Bestseller by hour" data={bestsellers} />
         </Block>
       </Container>
+      <Footer />
     </div>
   );
 };

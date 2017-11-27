@@ -1,12 +1,13 @@
 import React from "react";
 import { injectGlobal, ThemeProvider } from "styled-components";
-import { lighten } from "polished";
+import { lighten, darken } from "polished";
 import DashboardPage from "../containers/DashboardPage";
 
 const theme = {
   colors: {
     primary: "#BE2C2C",
-    primaryLight: lighten(0.2, "#BE2C2C")
+    primaryLight: lighten(0.2, "#BE2C2C"),
+    primaryDark: darken(0.2, "#BE2C2C")
   },
   breakpoints: {
     sm: "800px",
