@@ -4,8 +4,8 @@
   "theme_color": "#be2c2c",
   "background_color": "#000000",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/skipthedishes",
+  "start_url": "/skipthedishes",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
