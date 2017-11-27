@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Logo from "../../atoms/Logo";
 import Menu from "../../atoms/Menu";
+import logoImage from "./logo.png";
 
 const Wrapper = styled.div`
   position: fixed;
@@ -28,7 +29,7 @@ const InnerWrapper = styled.div`
 const Header = () => (
   <Wrapper>
     <InnerWrapper>
-      <Logo src="/skip.png" />
+      <Logo src={logoImage} />
       <Menu />
     </InnerWrapper>
   </Wrapper>
