@@ -1,4 +1,4 @@
-# InterNations Coding Challenge
+# Skip The Dishes Coding Challenge
 
 Site is Avalaible at https://irvingv8.github.io/skipthedishes/
 
