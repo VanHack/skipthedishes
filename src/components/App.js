@@ -23,7 +23,7 @@ injectGlobal`
     margin: 0;
     padding-top: 70px;
     background: #eee;
-    font-family: Roboto;
+    font-family: Lato;
   }
 `;
 
